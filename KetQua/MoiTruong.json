@@ -1,0 +1,15 @@
+{
+  "started": "2026-10-09T19:25:14.4446718+07:00",
+  "finished": "2026-10-09T19:30:03.6159035+07:00",
+  "compiler": "g++.exe (MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r3) 14.2.0",
+  "flags": "-std=c++17 -O2",
+  "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+  "logical_processors": 12,
+  "os_version": "Microsoft Windows NT 10.0.26200.0",
+  "seed": 20261009,
+  "values_per_dataset": 1000000,
+  "datasets": 10,
+  "repetitions_per_algorithm_per_dataset": 1,
+  "timing_scope": "Sorting call only; excludes input, output and verification. MergeSort buffer is global.",
+  "ram_gib": 15.84
+}
